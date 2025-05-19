@@ -1,0 +1,106 @@
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Frota Campo</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Frota Campo</h1>
+            <form id="calcForm">
+                <select id="estado" name="estado" onchange="updateCities()">
+                    <option value="" disabled selected>Selecione o Estado</option>
+                    {% for estado, cidades in estados.items() %}
+                        <option value="{{ estado }}">{{ estado }}</option>
+                    {% endfor %}
+                </select>
+
+                <select id="cidade" name="cidade">
+                    <option value="" disabled selected>Selecione a Cidade</option>
+                </select>
+
+                <input type="number" id="volume" name="volume" placeholder="Volume (kg)" required>
+
+                <input type="date" id="data_faturamento" name="data_faturamento" placeholder="Data de Faturamento" required>
+
+                <button type="button" onclick="calculate()">Calcular</button>
+            <!-- Botão de Cadastro de Cliente -->
+             
+                <button type="button" onclick="cadastroCliente()">Cadastro de Cliente</button>
+                <form action="/logout" method="POST" style="display: inline;">
+                    <button type="submit" id="logout-btn">Logout</button>
+                    <form action="/comprovante" method="GET" style="display: inline;"></form>
+                    <button type="button" onclick="comprovante()">Registrar pagamento</button>
+                    <form action="/logout" method="POST" style="display: inline;">
+                        <button type="submit" id="logout-btn">Logout</button>
+
+            
+                </form>
+            
+            </form>
+
+            <div id="resultado"></div>
+        </div>
+
+        <footer>
+            <p>© 2024 Daniel Felipe. Todos os direitos reservados.
+        </footer>
+
+        <script>
+            const cidades = {{ estados | tojson | safe }};
+
+            function updateCities() {
+                const estado = document.getElementById("estado").value;
+                const cidadeSelect = document.getElementById("cidade");
+                cidadeSelect.innerHTML = "";
+
+                if (estado && cidades[estado]) {
+                    cidades[estado].forEach(cidade => {
+                        const option = document.createElement("option");
+                        option.value = cidade;
+                        option.textContent = cidade;
+                        cidadeSelect.appendChild(option);
+                    });
+                } else {
+                    const option = document.createElement("option");
+                    option.textContent = "Nenhuma cidade disponível";
+                    cidadeSelect.appendChild(option);
+                }
+            }
+
+            async function calculate() {
+                const data = {
+                    estado: document.getElementById("estado").value,
+                    cidade: document.getElementById("cidade").value,
+                    volume: document.getElementById("volume").value,
+                    data_faturamento: document.getElementById("data_faturamento").value
+                };
+
+                const response = await fetch("/calculate", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(data)
+                });
+
+                const result = await response.json();
+                const resultDiv = document.getElementById("resultado");
+                if (result.error) {
+                    resultDiv.textContent = result.error;
+                } else {
+                    resultDiv.textContent = `A data de entrega será: ${result.dia_semana}, ${result.data}`;
+                }
+            }
+            function cadastroCliente() {
+            // Redireciona para a página de cadastro de cliente
+                window.location.href = '/cadastro'; 
+            }
+
+            function logout() {
+                // Redireciona para a página de logout no servidor
+                window.location.href = '/login';
+            }
+        </script>
+    </body>
+    </html>

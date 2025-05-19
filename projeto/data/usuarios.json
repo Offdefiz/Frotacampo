@@ -1,0 +1,103 @@
+[
+    {
+        "email": "usuario1@example.com",
+        "password": "$2b$12$G9QZn.z3YPKP8.GIDuTijO93ENywV/Rc3Bv1DPAYz6RGpYXt/JOKZy"
+    },
+    {
+        "email": "teste@mail.com",
+        "password": "$2b$12$USwBhV897KJbg/aIbwfLQex9fJUhfNhP8DaqnTgi1Nz5P4ecKlBK.",
+        "username": "teste",
+        "phone": "999999999"
+    },
+    {
+        "email": "dfsgomes5@gmail.com",
+        "password": "$2b$12$Cg.84c6NpX0OBobcHlNQ3eW9GTmmgkle4nFlyVxW97A.vyPlBW/AK",
+        "username": "teste de style",
+        "phone": null
+    },
+    {
+        "email": "teste1@mail.com",
+        "password": "$2b$12$D5AHNdqPMZ3KerHCbARt8eZ1Mnw5NwBY6UGJlxqfwnLiAKsO.9t9i",
+        "username": "teste de tela de registro"
+    },
+    {
+        "email": "123@gmail.com",
+        "password": "$2b$12$ODVv6a0gFbHlMuFyUcb.leaTe22/sS6iSGKgiQ77HwPzWN9gNcSJW",
+        "username": "teste de reg"
+    },
+    {
+        "email": "vendas@frutacampo.com.br",
+        "password": "$2b$12$55nDW0Rr8jVnUw.qLTkeue7AwmV8PDg6n7uTApLozPyrTEcbgqZHy",
+        "username": "teste@mail.com"
+    },
+    {
+        "email": "victor@ag3alimentos.com.br",
+        "password": "$2b$12$DWNKJl9456qw6yTuc6W2UeO72oLPt2TAwjeUs/kr11dIyzQp5.Eue",
+        "username": "d"
+    },
+    {
+        "email": null,
+        "password": "$2b$12$k5xEB/JoN8Wr7IMNNtm93OCp4J8QQsRtrfhc7p6gIytoscsil9j5i",
+        "username": null
+    },
+    {
+        "email": "daniel",
+        "password": "$2b$12$Y2Y6Q/v6e3g9RkxZ.VP9wugOWBdNhRmTTq/ZCZBRkdZo0ADFWh5pC",
+        "username": null
+    },
+    {
+        "email": "flavia",
+        "password": "$2b$12$DWk/dJYb3H/DhlEIVGP0guk2OoXUIPTTK1bvuPVZ67F8mB8lXwgz6",
+        "username": null
+    },
+    {
+        "email": "izabella",
+        "password": "$2b$12$5uE1uRgKQXFsHNjFoA5p3eWpb33S3Ae4TIrI.iCNG/wiqxWy7v6Ge",
+        "username": null
+    },
+    {
+        "email": "alexsandra",
+        "password": "$2b$12$T9vchbiaP6kKNUOnowthlOmLJU.n56B1Br6/gQAplfTeYcSv6FqLC",
+        "username": null
+    },
+    {
+        "email": "maria",
+        "password": "$2b$12$vKXekmO2K.fYtefXIiCMM.3vcpYfeIXWeT97ZrTkyKwDZHMu9bCxW",
+        "username": null
+    },
+    {
+        "email": "poliana",
+        "password": "$2b$12$Objr3Ivts7jWcgTBYTtvguNi7FKo7oewdPT/CRtRF9.4IBJFjKzta",
+        "username": null
+    },
+    {
+        "email": "wellington",
+        "password": "$2b$12$VlhBsiWksLMnPMdR5NM44escfs68.v6Wl4z82LKv5mEKmWiQZH77G",
+        "username": null
+    },
+    {
+        "email": "victor",
+        "password": "$2b$12$68o6ZpL0DuWekruQ7.348.tUP3NZj7KSZ/Y2zb/fUX5ZgeJyYJ5.e",
+        "username": null
+    },
+    {
+        "email": "ue",
+        "password": "$2b$12$D/4gVwX5993gXQrCl3sTTOkzJ10MM6xS5Jn2NKvM4GAmivhA6VDOG",
+        "username": null
+    },
+    {
+        "email": "Flávia",
+        "password": "$2b$12$yHxSc4V9W/uA0R1vpEd7COLjdoIwR6HPkrSTTtuCFPOys3Tvxup6i",
+        "username": null
+    },
+    {
+        "email": "oi",
+        "password": "$2b$12$V505svoouF/6WKysaCnf4u08a/0QpCqnX7q6T3TlL.KVEbwRxPl9K",
+        "username": null
+    },
+    {
+        "email": "joyce",
+        "password": "$2b$12$7ym/tjBc6cR8uepXnatoiOpLvcdfHPKTI4oKr6XobLI3D30wc664.",
+        "username": null
+    }
+]

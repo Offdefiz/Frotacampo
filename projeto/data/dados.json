@@ -1,0 +1,230 @@
+{
+    "usuario1@example.com": [
+        {
+            "VENDEDOR": "João Silva",
+            "Razão Social": "Empresa Exemplo",
+            "CNPJ": "12345678000199",
+            "Endereço com CEP": "Rua Exemplo, 123 - 12345-678",
+            "E-mail": "usuario1@example.com",
+            "Telefone": "(11) 99999-9999",
+            "Data de Envio ao Assistente": "2024-11-28",
+            "Logistica": "Entrega via transporte próprio."
+        }
+    ],
+    "dfsgomes5@gmail.com": [
+        {
+            "VENDEDOR": "Daniel Felipe dos Santos",
+            "Razão Social": "asdfas",
+            "CNPJ": "344344534",
+            "Endereço com CEP": "Rua pará",
+            "E-mail": "dfsgomes5@gmail.com",
+            "Telefone": "31993168137",
+            "Data de Envio ao Assistente": "2024-11-28",
+            "Logistica": "re"
+        }
+    ],
+    "asdfasd": [
+        {
+            "VENDEDOR": "Daniel Felipe dos Santos",
+            "Razão Social": "dsfasd",
+            "CNPJ": "fasdfasd",
+            "Endereço com CEP": "Rua pará",
+            "E-mail": "asdfasd",
+            "Telefone": "31993168137",
+            "Data de Envio ao Assistente": "2024-12-04",
+            "Logistica": "asdfasdf"
+        },
+        {
+            "VENDEDOR": "Daniel Felipe dos Santos",
+            "Razão Social": "dsfasd",
+            "CNPJ": "fasdfasd",
+            "Endereço com CEP": "Rua pará",
+            "E-mail": "asdfasd",
+            "Telefone": "31993168137",
+            "Data de Envio ao Assistente": "2024-12-04",
+            "Logistica": "asdfasdf"
+        },
+        {
+            "VENDEDOR": "Daniel Felipe dos Santos",
+            "Razão Social": "dsfasd",
+            "CNPJ": "fasdfasd",
+            "Endereço com CEP": "Rua pará",
+            "E-mail": "asdfasd",
+            "Telefone": "31993168137",
+            "Data de Envio ao Assistente": "2024-12-04",
+            "Logistica": "asdfasdf"
+        },
+        {
+            "VENDEDOR": "Daniel Felipe dos Santos",
+            "Razão Social": "dsfasd",
+            "CNPJ": "fasdfasd",
+            "Endereço com CEP": "Rua pará",
+            "E-mail": "asdfasd",
+            "Telefone": "31993168137",
+            "Data de Envio ao Assistente": "2024-12-04",
+            "Logistica": "asdfasdf"
+        }
+    ],
+    "fasdfas": [
+        {
+            "VENDEDOR": "Daniel Felipe dos Santos",
+            "Razão Social": "6516516",
+            "CNPJ": "sdfas",
+            "Endereço com CEP": "Rua pará",
+            "E-mail": "fasdfas",
+            "Telefone": "31993168137",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "asdfasd"
+        }
+    ],
+    "dd": [
+        {
+            "VENDEDOR": "ddd",
+            "Razão Social": "dd",
+            "CNPJ": "dd",
+            "Endereço com CEP": "dd",
+            "E-mail": "dd",
+            "Telefone": "dd",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "dsd"
+        }
+    ],
+    "A": [
+        {
+            "VENDEDOR": "a",
+            "Razão Social": "a",
+            "CNPJ": "a",
+            "Endereço com CEP": "A",
+            "E-mail": "A",
+            "Telefone": "A",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "A"
+        },
+        {
+            "VENDEDOR": "a",
+            "Razão Social": "a",
+            "CNPJ": "a",
+            "Endereço com CEP": "A",
+            "E-mail": "A",
+            "Telefone": "A",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "A"
+        }
+    ],
+    "e": [
+        {
+            "VENDEDOR": "e",
+            "Razão Social": "e",
+            "CNPJ": "e",
+            "Endereço com CEP": "e",
+            "E-mail": "e",
+            "Telefone": "e",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "e"
+        },
+        {
+            "VENDEDOR": "e",
+            "Razão Social": "e",
+            "CNPJ": "e",
+            "Endereço com CEP": "e",
+            "E-mail": "e",
+            "Telefone": "e",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "e"
+        },
+        {
+            "VENDEDOR": "e",
+            "Razão Social": "e",
+            "CNPJ": "e",
+            "Endereço com CEP": "e",
+            "E-mail": "e",
+            "Telefone": "e",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "e"
+        },
+        {
+            "VENDEDOR": "e",
+            "Razão Social": "e",
+            "CNPJ": "e",
+            "Endereço com CEP": "e",
+            "E-mail": "e",
+            "Telefone": "e",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "e"
+        }
+    ],
+    "2": [
+        {
+            "VENDEDOR": "2",
+            "Razão Social": "2",
+            "CNPJ": "2",
+            "Endereço com CEP": "2",
+            "E-mail": "2",
+            "Telefone": "2",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "2"
+        }
+    ],
+    "registrar_cliente": [
+        {
+            "VENDEDOR": "registrar_cliente",
+            "Razão Social": "registrar_cliente",
+            "CNPJ": "registrar_cliente",
+            "Endereço com CEP": "registrar_cliente",
+            "E-mail": "registrar_cliente",
+            "Telefone": "registrar_cliente",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "registrar_cliente"
+        },
+        {
+            "VENDEDOR": "registrar_cliente",
+            "Razão Social": "registrar_cliente",
+            "CNPJ": "registrar_cliente",
+            "Endereço com CEP": "registrar_cliente",
+            "E-mail": "registrar_cliente",
+            "Telefone": "registrar_cliente",
+            "Data de Envio ao Assistente": "",
+            "Logistica": "registrar_cliente"
+        },
+        {
+            "VENDEDOR": "registrar_cliente",
+            "Razão Social": "registrar_cliente",
+            "CNPJ": "registrar_cliente",
+            "Endereço com CEP": "registrar_cliente",
+            "E-mail": "registrar_cliente",
+            "Telefone": "registrar_cliente",
+            "Data de Envio ao Assistente": "2024-12-11",
+            "Logistica": "registrar_cliente"
+        },
+        {
+            "VENDEDOR": "registrar_cliente",
+            "Razão Social": "registrar_cliente",
+            "CNPJ": "registrar_cliente",
+            "Endereço com CEP": "registrar_cliente",
+            "E-mail": "registrar_cliente",
+            "Telefone": "registrar_cliente",
+            "Data de Envio ao Assistente": "2024-12-11",
+            "Logistica": "registrar_cliente"
+        },
+        {
+            "VENDEDOR": "registrar_cliente",
+            "Razão Social": "registrar_cliente",
+            "CNPJ": "registrar_cliente",
+            "Endereço com CEP": "registrar_cliente",
+            "E-mail": "registrar_cliente",
+            "Telefone": "registrar_cliente",
+            "Data de Envio ao Assistente": "2024-12-11",
+            "Logistica": "registrar_cliente"
+        },
+        {
+            "VENDEDOR": "registrar_cliente",
+            "Razão Social": "registrar_cliente",
+            "CNPJ": "registrar_cliente",
+            "Endereço com CEP": "registrar_cliente",
+            "E-mail": "registrar_cliente",
+            "Telefone": "registrar_cliente",
+            "Data de Envio ao Assistente": "2024-12-11",
+            "Logistica": "registrar_cliente"
+        }
+    ]
+}

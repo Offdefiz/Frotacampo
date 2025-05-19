@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Clientes - Frota Campo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Cadastro de Clientes</h1>
+        <form id="cadastroForm">
+            <input type="text" id="vendedor" name="vendedor" placeholder="Nome do vendedor" required>
+            <input type="text" id="razao_social" name="razao_social" placeholder="Razão Social" required>    
+            <input type="text" id="cnpj" name="cnpj" placeholder="CNPJ (somente números)" required>
+            <input type="text" id="endereco" name="endereco" placeholder="Endereço completo" required>
+            <input type="email" id="email" name="email" placeholder="E-mail do cliente" required>                        
+            <input type="tel" id="telefone" name="telefone" placeholder="Telefone com DDD" required>           
+            <input type="date" id="data_envio" name="data_envio" placeholder="Telefone com DDD"required>          
+            <input id="logistica" name="logistica" placeholder="Informações logísticas (opcional)"></textarea>         
+            <button type="button" onclick="registrarCliente()">Registrar</button>
+        </form>
+
+        <div id="mensagem"></div>
+        <!-- Botão "Voltar" -->
+        <button onclick="window.location.href='/'" style="margin-top: 20px;">Voltar</button>
+    </div>
+    </div>
+    <script>
+        async function registrarCliente() {
+            const dados = {
+                vendedor: document.getElementById("vendedor").value,
+                razao_social: document.getElementById("razao_social").value,
+                cnpj: document.getElementById("cnpj").value,
+                endereco: document.getElementById("endereco").value,
+                email: document.getElementById("email").value,
+                telefone: document.getElementById("telefone").value,
+                data_envio: document.getElementById("data_envio").value,
+                logistica: document.getElementById("logistica").value
+            };
+
+            const response = await fetch("/registrar_cliente", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(dados)
+            });
+
+            const mensagemDiv = document.getElementById("mensagem");
+            if (response.ok) {
+                mensagemDiv.textContent = "Cliente registrado com sucesso!";
+                mensagemDiv.style.color = "green";
+            } else {
+                const erro = await response.json();
+                mensagemDiv.textContent = erro.message || "Erro ao registrar cliente.";
+                mensagemDiv.style.color = "red";
+            }
+            
+        }
+    </script>
+</body>
+</html>

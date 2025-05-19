@@ -1,0 +1,1555 @@
+{
+    "usuario1@example.com": [
+        {
+            "estado": "SP",
+            "cidade": "São Paulo",
+            "volume": 100,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "2024-12-01"
+        }
+    ],
+    "dfsgomes5@gmail.com": [
+        {
+            "estado": "São Paulo",
+            "cidade": "Americana",
+            "volume": 62.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "02/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Mário Campos",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "26/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Mário Campos",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "26/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Mário Campos",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "02/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-12",
+            "data_entrega": "13/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabará",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-18",
+            "data_entrega": "22/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 61.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "27/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 43.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "26/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "26/11/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-12",
+            "data_entrega": "14/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "26/11/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Taubaté",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-25",
+            "data_entrega": "29/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabará",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-24",
+            "data_entrega": "29/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Brumadinho",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-27",
+            "data_entrega": "02/12/2024"
+        }
+    ],
+    "teste@mail.com": [
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-27",
+            "data_entrega": "28/11/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-27",
+            "data_entrega": "28/11/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Ilha-Bela",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-26",
+            "data_entrega": "05/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Petropolis",
+            "volume": 400.0,
+            "data_faturamento": "2024-11-27",
+            "data_entrega": "29/11/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Sul",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-27",
+            "data_entrega": "03/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Belo Horizonte",
+            "volume": 60.0,
+            "data_faturamento": "2024-11-27",
+            "data_entrega": "28/11/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-02",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-04",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Saquarema",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-04",
+            "data_entrega": "12/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "05/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Fernandópolis",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Cabo Frio",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Mogi das Cruzes",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Arapuá",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "16/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Arapuá",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-12",
+            "data_entrega": "16/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Arapuá",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-12",
+            "data_entrega": "16/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Arapuá",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-13",
+            "data_entrega": "16/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Arapuá",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Arapuá",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Varginha",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "17/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Varginha",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "17/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Passos",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Alfenas",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "12/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Alfenas",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Limeira do Oeste",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Limeira do Oeste",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-02",
+            "data_entrega": "04/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Limeira do Oeste",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Limeira do Oeste",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "09/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-12",
+            "data_entrega": "16/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-13",
+            "data_entrega": "17/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Bauru",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-20",
+            "data_entrega": "30/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Bauru",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "30/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Itabira",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "26/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabara",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-02",
+            "data_entrega": "10/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabara",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-08",
+            "data_entrega": "10/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabara",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-06",
+            "data_entrega": "10/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabara",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-02",
+            "data_entrega": "10/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sabara",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-17",
+            "data_entrega": "24/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São Carlos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-07",
+            "data_entrega": "14/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-03",
+            "data_entrega": "13/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Sete Lagoas",
+            "volume": 40.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "17/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Patos de Minas",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Patos de Minas",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "13/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Paraty",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-07",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Pouso Alegre",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Americana",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-14",
+            "data_entrega": "20/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Mariana",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-16",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Mariana",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-16",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Nova Iguaçu",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-31",
+            "data_entrega": "04/02/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-31",
+            "data_entrega": "04/02/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-31",
+            "data_entrega": "04/02/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Americana",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-31",
+            "data_entrega": "06/02/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Barretos",
+            "volume": 50.0,
+            "data_faturamento": "2025-02-10",
+            "data_entrega": "20/02/2025"
+        }
+    ],
+    "Flávia": [
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Franca",
+            "volume": 50.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "06/12/2024"
+        }
+    ],
+    "flavia": [
+        {
+            "estado": "São Paulo",
+            "cidade": "Miracatu",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "10/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-26",
+            "data_entrega": "02/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Cachoeiras de Macacu",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Franca",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-02",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caçapava",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caçapava",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-12",
+            "data_entrega": "20/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caçapava",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-08",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caçapava",
+            "volume": 500.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São João da Boa Vista",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "17/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São João da Boa Vista",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "17/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São João da Boa Vista",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "17/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-03",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Oeste",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-10",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caraguatatuba",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-10",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caraguatatuba",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Caraguatatuba",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Seropédica",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "13/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-11",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Olimpia",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-13",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Patrocínio",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Duque de Caxias",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São Carlos",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "24/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Frutal",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Frutal",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Frutal",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Nova Iguaçu",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Nova Iguaçu",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-16",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Duque de Caxias",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Vespasiano",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Resende",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-24",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Leste",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-25",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-25",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-20",
+            "data_entrega": "30/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-30",
+            "data_entrega": "06/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São Bernardo",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "24/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Poços de Caldas",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-30",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Poços de Caldas",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-30",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Poços de Caldas",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-17",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Patos de Minas",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Santo Andre",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "24/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Pará de Minas",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "23/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Taboão da Serra",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-18",
+            "data_entrega": "24/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Mogi das Cruzes",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Mogi das Cruzes",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Mogi das Cruzes",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Bertioga",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "27/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Bertioga",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "27/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Vinhedo",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Pouso Alegre",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-24",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Perdizes",
+            "volume": 100.0,
+            "data_faturamento": "2024-12-24",
+            "data_entrega": "31/12/2024"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São Carlos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-03",
+            "data_entrega": "14/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-03",
+            "data_entrega": "08/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Buzios",
+            "volume": 60.0,
+            "data_faturamento": "2025-01-07",
+            "data_entrega": "09/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Bertioga",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-07",
+            "data_entrega": "17/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Cotia",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-08",
+            "data_entrega": "14/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Nova Lima",
+            "volume": 54.0,
+            "data_faturamento": "2025-01-09",
+            "data_entrega": "16/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Diadema",
+            "volume": 40.0,
+            "data_faturamento": "2025-01-09",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Frutal",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "13/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Patos de Minas",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "13/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Nova Serrana",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "20/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Nova Serrana",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "20/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Mariana",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-16",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Uberaba",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-16",
+            "data_entrega": "20/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guarulhos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-17",
+            "data_entrega": "23/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Norte",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-17",
+            "data_entrega": "23/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Norte",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-17",
+            "data_entrega": "23/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Ribeirão Preto",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-30",
+            "data_entrega": "07/02/2025"
+        }
+    ],
+    "wellington": [
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 500.0,
+            "data_faturamento": "2024-11-29",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Nova Iguaçu",
+            "volume": 70.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "09/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Niteroi",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "09/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Niteroi",
+            "volume": 30.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "09/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Belford Roxo",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-05",
+            "data_entrega": "09/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Cabo Frio",
+            "volume": 40.0,
+            "data_faturamento": "2024-12-06",
+            "data_entrega": "12/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 60.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "18/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 60.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        }
+    ],
+    "daniel": [
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 80.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 80.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Taubaté",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "06/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Taubaté",
+            "volume": 30.0,
+            "data_faturamento": "2024-11-28",
+            "data_entrega": "06/12/2024"
+        }
+    ],
+    "maria": [
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-09",
+            "data_entrega": "11/12/2024"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Sorocaba",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-12",
+            "data_entrega": "19/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 300.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 300.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 300.0,
+            "data_faturamento": "2024-12-19",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 300.0,
+            "data_faturamento": "2024-12-23",
+            "data_entrega": "25/12/2024"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 50.0,
+            "data_faturamento": "2024-12-30",
+            "data_entrega": "01/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Guaratingueta",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-08",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Marilia",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-09",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Ribeirão Preto",
+            "volume": 200.0,
+            "data_faturamento": "2025-01-09",
+            "data_entrega": "17/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "São Carlos",
+            "volume": 200.0,
+            "data_faturamento": "2025-01-09",
+            "data_entrega": "21/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Volta Redonda",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-10",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-14",
+            "data_entrega": "16/01/2025"
+        },
+        {
+            "estado": "Rio de Janeiro",
+            "cidade": "Rio de Janeiro",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-14",
+            "data_entrega": "16/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "Ribeirão Preto",
+            "volume": 100.0,
+            "data_faturamento": "2025-01-14",
+            "data_entrega": "24/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Franca",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-20",
+            "data_entrega": "24/01/2025"
+        }
+    ],
+    "joyce": [
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Vespasiano",
+            "volume": 50.0,
+            "data_faturamento": "2025-01-08",
+            "data_entrega": "15/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo",
+            "cidade": "São José dos Campos",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-13",
+            "data_entrega": "22/01/2025"
+        },
+        {
+            "estado": "São Paulo-Bauru",
+            "cidade": "Catanduva",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-14",
+            "data_entrega": "23/01/2025"
+        },
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Nova Serrana",
+            "volume": 30.0,
+            "data_faturamento": "2025-01-31",
+            "data_entrega": "10/02/2025"
+        }
+    ],
+    "vendas@frutacampo.com.br": [
+        {
+            "estado": "Minas Gerais",
+            "cidade": "Conselheiro Lafaiete",
+            "volume": 500.0,
+            "data_faturamento": "2025-05-19",
+            "data_entrega": "21/05/2025"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+/* Fonte principal e layout básico */
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+
+h1 {
+    color: #007BFF;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.container {
+    flex: 1; /* Faz o container ocupar o espaço disponível acima do rodapé */
+    display: flex;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center; /* Centraliza verticalmente o conteúdo do container */
+    align-items: center;
+}
+
+/* Estilo para campos */
+select, input {
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+select:focus, input:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+}
+
+select option[disabled], input::placeholder {
+    font-style: italic;
+    color: #aaa;
+}
+
+/* Botão */
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:active {
+    background-color: #004085;
+}
+
+/* Resultado */
+#resultado {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Footer */
+footer {
+    margin-top: 30px;
+    text-align: center;
+    padding: 15px 20px;
+    font-size: 0.9rem;
+    color: #888;
+    position: absolute; /* Remove qualquer deslocamento indesejado */
+    bottom: 0; /* Mantém o rodapé no rodapé da página */
+}
+
+footer a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+        width: 90%;
+    }
+}

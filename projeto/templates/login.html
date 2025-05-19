@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Frota Fruta</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/slide-navbar-style.css') }}">
+</head>
+<body>
+    <div class="main">
+        <input type="checkbox" id="chk" aria-hidden="false">
+
+        <!-- Sign up Form -->
+        <div class="signup">
+            <form action="/login" method="post">
+                <label for="chk" aria-hidden="true">Login</label>
+                <input type="text" name="email" id="email" placeholder="Email ou usuário" required>              
+                <input type="password" name="password" placeholder="Senha" required>
+                <button type="submit">Login</button>
+            </form>
+        </div>
+
+        <!-- Login Form -->
+        <div class="login">
+            <form action="/signup" method="post">
+                <label for="chk" aria-hidden="true">Registrar</label>
+                
+                <input type="text" name="email" placeholder="E-mail ou Usuário" required>
+                <input type="password" name="password" placeholder="Senha" required>
+                <button type="submit">Registrar</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
