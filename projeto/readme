@@ -1,0 +1,74 @@
+🚚 Frota Campo
+
+Frota Campo é um WebApp desenvolvido para otimizar o planejamento de entregas, roteirização comercial e organização logística de empresas que operam com distribuição de produtos, especialmente no setor de alimentos e bebidas.
+
+📌 Objetivo
+
+Oferecer uma ferramenta prática, acessível e eficiente para o time de vendas, faturamento e logística, centralizando informações de rotas, clientes, cidades e fretes em um só lugar.
+
+🧹 Funcionalidades
+
+ Consulta de cidades por rota de entrega
+
+ Organização semanal de entregas (segunda a sexta)
+
+ Visualização de clientes e região atendida
+
+ Acesso a informações de frete por cidade
+
+ Apoio ao planejamento de faturamento diário
+
+ Login com autenticação simplificada por nome
+
+🛠️ Tecnologias Utilizadas
+
+Frontend: React (com TailwindCSS para estilização)
+
+Backend: Node.js / Firebase (dependendo da versão)
+
+Banco de dados: Firestore / JSON estruturado
+
+Integrações: Compatível com processos do ERP Sankhya
+
+👤 Usuários
+
+Vendedores
+
+Faturistas
+
+Motoristas e auxiliares de logística
+
+Equipe de administração
+
+✅ Benefícios
+
+Redução de erros no planejamento de rotas
+
+Agilidade na conferência de pedidos e dias de entrega
+
+Maior controle logístico e organização regional
+
+Facilidade no treinamento de novos vendedores
+
+🔐 Acesso
+
+Login: Primeiro nome do usuário ou email
+
+Senha padrão: 123
+
+📈 Roadmap Futuro
+
+ Integração total com Sankhya via API
+
+ Versão mobile com acesso offline
+
+ Mapa visual com rotas geográficas
+
+ Inteligência de sugestão automática de rotas
+
+ Contato
+
+Para sugestões ou colaboração:
+
+Desenvolvedor: Daniel Felipe
+Email: dfsgomes@gmail.com
